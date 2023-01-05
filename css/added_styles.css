@@ -1,0 +1,22 @@
+.about-section-content {
+    width: 60%;
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.portfolio-item-title-and-links {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.contact-info {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 20px;
+    min-width: 30ch;
+}
