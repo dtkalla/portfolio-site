@@ -15,8 +15,51 @@
 .contact-info {
     display: flex;
     justify-content: space-between;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
     font-size: 20px;
-    min-width: 30ch;
+    min-width: 40ch;
+}
+
+
+#profile-pic {
+    border-radius: 30px;
+}
+
+
+.link-icons {
+    border-radius: 20px;
+    display: flex;
+    /* width: 200px; */
+}
+
+
+.link-icons img {
+    height: 70px;
+    /* margin: 10px; */
+    padding: 10px;
+}
+
+.link-icons img:hover {
+    background-color: #e2e2e2;
+    border-radius: 20px;
+}
+
+#angel-list {
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 5px;
+}
+
+#link-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+#blank {
+    width: 4ch;
+}
+
+#resume {
+    font-size: 20px;
 }
