@@ -11,6 +11,10 @@
     justify-content: space-around;
 }
 
+.portfolio-item-title-and-links a {
+    color: white;
+}
+
 
 .contact-info {
     display: flex;
