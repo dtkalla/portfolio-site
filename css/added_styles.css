@@ -8,7 +8,7 @@
 
 .portfolio-item-title-and-links {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .portfolio-item-title-and-links a {
