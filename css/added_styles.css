@@ -22,7 +22,13 @@
     margin-left: 20%;
     margin-right: 20%;
     font-size: 20px;
-    /* min-width: 40ch; */
+    min-width: 40ch;
+}
+
+@media (max-width: 600px) {
+    .contact-info {
+        flex-direction: column;
+    }
 }
 
 
