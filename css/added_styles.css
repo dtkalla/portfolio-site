@@ -83,7 +83,7 @@ body {
 }
 
 .skill-icons {
-    max-width: 90%;
+    max-width: 90% !important;
 }
 
 
