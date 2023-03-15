@@ -82,4 +82,8 @@ body {
     scrollbar-width: none;  /* Firefox */
 }
 
+.skill-icons {
+    max-width: 90%;
+}
+
 
