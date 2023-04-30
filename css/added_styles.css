@@ -91,6 +91,7 @@ body {
 
 
 .skill-icon-font {
-    min-width: 500px;
+    min-width: 300px;
+    max-width: 600px;
     font-size: 70px;
 }
